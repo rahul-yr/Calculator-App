@@ -1,0 +1,135 @@
+
+#entire{
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+  width:400px;
+  height:500px;
+  //padding:10px;
+  position:center;
+  border-color:#c3c2ab;
+  //background-color:white;
+   // background-color: #c3c2ab;
+
+}
+.display{
+  height:30%;
+ 
+  padding-top:2%;
+  padding-left:6%;
+    padding-right:6%;
+ border-color:#263238;
+  background-color:white;
+//  width:100%;
+  margin-bottom:1px;
+  
+}
+#inputs{
+  background-color: white;
+  height:70%;
+  margin-top:0px;
+  margin-bottom:0px;
+  text-align:right;
+//  overflow:; 
+  font-size:220%;
+  font-weight:bold;
+  padding:1%;
+  border-radius:5px;
+  word-wrap:break-word;
+ // text-align:justify;
+//  text-justify:break-word;
+ //- position:relative;
+ // display:block;
+ overflow:hidden;
+  color:#212121;
+  border-color:white;
+}
+#outputs{
+  border-color:white;
+  background-color:white;
+  height:30%;
+  margin-top:10px;
+  padding:1%;
+  font-weight:bold;
+ padding-bottom:20px;
+  padding-top:4%;
+  //padding-right:0px;
+  text-align:right;
+  word-wrap:break-word;
+  font-size:150%;
+  overflow:hidden;
+  color:#212121;
+}
+#buttons{
+  height:70%;
+  margin-top:8px;
+   background-color:#263238;
+
+ // padding:0px;
+  
+}
+.btn{
+ // position:relative;
+  width:75px;
+  //padding:10px;
+  margin:1px;
+   height:20%;
+  font-size:20px;
+  font-weight:bold;
+  background-color:#263238;
+ // border-color:#263238;
+  border-radius:50%;
+  color:white;
+  transition:1s;
+ 
+}
+
+.bips1{
+  position:absolute;
+//  padding:0px;
+  height:115px;
+  width:75px;
+  margin:1px;
+  font-size:20px;
+    border-radius:50%;
+
+}
+.bips2{
+  height:20%;
+  width:155px;
+  margin:1px;
+  font-size:20px;
+ // transform:translateY(2px);
+  ////  box-shadow:0px 3px #83af83;
+}
+.btn:hover{
+ // transform:translateY(-10px);
+  border-radius:5px;
+  border-color:#263238;
+    border-radius:30%;
+  color:black;
+  background-color:white;
+
+}
+.btn:focus{
+    border-color:#263238;
+ 
+ // border-style:none;
+ // height:20px;
+    border-radius:50%;
+  color:black;
+  background-color:white;
+
+
+}
+.bred{
+  background-color:#EF5350;
+  border-radius:30%;
+}
+.bred:focus{
+  color:black;
+}
+body{
+    background-color: #c3c2ab;
+
+}
